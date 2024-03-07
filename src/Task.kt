@@ -45,7 +45,7 @@ class Task {
         displayTasks()
         print("> ")
         val uInput = readln().toInt()
-        if (uInput - 1 >= 0 && uInput <= tasks.count() - 1) {
+        if (uInput - 1 > -1 && uInput <= tasks.count()) {
             tasks[uInput - 1][2] = true
         } else {
             println("Invalid input please try again.")
