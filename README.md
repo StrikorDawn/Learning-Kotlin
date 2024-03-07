@@ -11,7 +11,7 @@ This is a simple command-line task manager, that can create, display, complete, 
 This is done by saving to a txt file that can be found in the src folder. I also set up a load on launch 
 function that makes the program a little more intuative. The default file can be changed in the main.kt
 
-[Software Demo Video]([http://youtube.link.goes.her](https://www.youtube.com/watch?v=1Lh_FdWpgOY&list=PLxORc4ofeHmnmZIp6qt-c3si0NcvjCy0A&index=10)e)
+[Software Demo Video](https://www.youtube.com/watch?v=1Lh_FdWpgOY&list=PLxORc4ofeHmnmZIp6qt-c3si0NcvjCy0A&index=10)
 
 # Development Environment
 
