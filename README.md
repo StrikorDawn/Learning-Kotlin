@@ -1,32 +1,30 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This Repo was created to hold my first steps into learning the Kotlin Language.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+I opped to build a simple command line task manager for my first project because it a familliar concept.
+in previous projects I have over whelmed myself by trying to learn to many new things at the same time,
+so i decided why not make a simple app that you could make in C# in Kotlin to help better understand the
+syntax and stucture of the language, so that's what I did.
 
-{Describe your purpose for writing this software.}
+This is a simple command-line task manager, that can create, display, complete, save, and load tasks.
+This is done by saving to a txt file that can be found in the src folder. I also set up a load on launch 
+function that makes the program a little more intuative. The default file can be changed in the main.kt
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.her](https://www.youtube.com/watch?v=1Lh_FdWpgOY&list=PLxORc4ofeHmnmZIp6qt-c3si0NcvjCy0A&index=10)e)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+- JetBrains Intellaj IDEA Ultimate
+- Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [w3schools Intro to Kotlin]([http://url.link.goes.here](https://www.w3schools.com/kotlin/index.php))
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add a remove task option
+- Better Error handleing
+- Turn into an executable
+- Turn into an App
